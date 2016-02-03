@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://MattyK8.github.io
+title: Awesomeness
+email: 
+author: MattyK8
+description: My awesome new site
+paginate: 3
+google_analytics: 
